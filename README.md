@@ -14,6 +14,7 @@ CatBoost Model: Utilize CatBoost for its effectiveness with categorical data, sp
 
 # Dataset
 The dataset used in this project can be found on Kaggle: PUBG Games Dataset
+https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset
 
 # Usage
 Clone the repository.
